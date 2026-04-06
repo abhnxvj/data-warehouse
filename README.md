@@ -79,31 +79,6 @@ The project includes SQL-based analysis for:
 
 ---
 
-## Repository Structure
-data-warehouse-project/
-│
-├── datasets/           # Raw ERP & CRM data
-│
-├── docs/               # Documentation & diagrams  
-│   ├── data_integration.
-│   ├── data_catalog.md
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
-│  
-│
-├── scripts/            # SQL scripts
-│   ├── bronze/         # Raw data loading
-│   ├── silver/         # Data cleaning & transformation
-│   └── gold/           # Analytical models
-│
-├── tests/              # Data validation & testing
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-└── requirements.txt
-
 **Abhinav Jain**  
-Aspiring Product & Business Analyst
 📧 Email: abhinavjain0413@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavjain0413/)  
